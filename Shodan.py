@@ -29,7 +29,7 @@ def load_key(file_path):
 
 
 def main():
-    search_list = load_data("file.txt")
+    search_list = load_data("ips.txt")
     key = load_key("key.txt")
     api = shodan.Shodan(key)
     sec_waits = 2
