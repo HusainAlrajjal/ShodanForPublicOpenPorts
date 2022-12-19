@@ -4,7 +4,7 @@ After downloading the files.
 
 1- install shodan package.
 
-easy_install shodan
+>>> easy_install shodan
 
 2- Enter you shodan.io key in the "key.txt" file.
 
