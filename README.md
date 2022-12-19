@@ -2,7 +2,7 @@
 
 After downloading the files.
 
-1- Run the command in their directory via cmd or other tools:
+1- install shodan package.
 
 easy_install shodan
 
